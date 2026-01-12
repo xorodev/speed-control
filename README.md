@@ -13,5 +13,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xorodev/speed-control
 <div align="center">
 
 ![Status](https://img.shields.io/badge/status-active-success)
+![Version](https://img.shields.io/badge/version-v1.0.0--stable-blue)
 
 </div>
